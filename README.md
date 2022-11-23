@@ -11,7 +11,7 @@
 |-|-|-|-|
 | [thu-learn-lib](https://github.com/Harry-Chen/thu-learn-lib) | 提供网络学堂2018的接口。| JavaScript库。</br>使用 TypeScript 开发。| GitHub</br>MIT |
 | [thu-info-lib](https://github.com/thu-info-community/thu-info-lib) | 提供信息门户的接口。 | JavaScript库。</br>使用 TypeScript 开发。| GitHub</br>MIT |
-| [THUInfo](https://github.com/UNIDY2002/THUInfo) | 集成各种校园信息。如GPA、图书馆资源、教室资源、洗衣机、学生卡消费、新闻、课表…… | 支持 Android、iOS。</br>使用 Typescript、React Native 开发。| GitHub</br>MIT |
+| [THUInfo](https://github.com/thu-info-community/thu-info-app) | 集成各种校园信息。如GPA、图书馆资源、教室资源、洗衣机、学生卡消费、新闻、课表…… | 支持 Android、iOS。</br>使用 Typescript、React Native 开发。| GitHub</br>MIT |
 | [Learn Helper](https://github.com/Harry-Chen/Learn-Helper) | 清华大学网络学堂浏览器扩展。便于管理相关信息；可在扩展的图标上看到待处理事项的数量。| 使用 Typescript、React 开发。| GitHub</br>MIT |
 | [learnX](https://github.com/robertying/learnX) | 清华大学网络学堂 App。| 支持 Android、iOS、macOS。</br>可联动 [课程信息共享计划](https://tsinghua.app/courses)。</br>使用 Typescript、React Native 开发。| GitHub</br>MIT |
 | [清华课程小助手](https://github.com/Starrah/THUCourseHelper)| 课程、日程管理 APP。对日程的支持较为完善，且有提醒功能。| 支持 Android。</br>使用 Kotlin 开发。| GitHub</br>MIT |
