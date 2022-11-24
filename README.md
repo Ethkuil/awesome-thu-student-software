@@ -23,7 +23,7 @@
 | 小工具、小脚本名 | 简介 | 适用平台 & 开发语言 | 开源托管网站与许可证 |
 |-|-|-|-|
 | [清华选课时间冲突标记器](https://greasyfork.org/zh-CN/scripts/408340-tsinghuacourseconflictmarker) | 在选课系统中，检测已选课程，自动将候选课中有冲突时间的课标红。| | Greasy Fork</br>MIT |
-| [清华大学GPA查询](https://greasyfork.org/zh-CN/scripts/420540-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6gpa%E6%9F%A5%E8%AF%A2) | 在信息门户的「全部成绩」页面，计算出每个学期和总的必限、必限任GPA。支持 WebVPN。| Greasy Fork</br>暂无许可证 |
+| [清华大学GPA查询](https://greasyfork.org/zh-CN/scripts/420540-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6gpa%E6%9F%A5%E8%AF%A2) | 在信息门户的「全部成绩」页面，计算出每个学期和总的必限、必限任GPA。支持 WebVPN。| | Greasy Fork</br>暂无许可证 |
 | [清华教参服务平台下载器](https://github.com/libthu/reserves-lib-tsinghua-downloader) | 从[清华教参服务平台](http://reserves.lib.tsinghua.edu.cn/)下载书籍。自动下载书籍每一页的原图，生成 PDF。免登录。| 使用Python开发。| GitHub</br>GPL-3.0 |
 | [清华云盘批量下载器](https://github.com/HuXiao-THU/Tsinghua-Tools) | 批量下载给定分享链接下的所有内容，无需逐一点击，避免`size too large`。| 使用 Python 开发。| GitHub</br>MIT |
 
