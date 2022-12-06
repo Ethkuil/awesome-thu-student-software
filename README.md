@@ -9,10 +9,10 @@
 
 | 项目名 | 简介 | 适用平台 & 开发语言 | 开源托管网站与许可证 |
 |-|-|-|-|
-| [thu-learn-lib](https://github.com/Harry-Chen/thu-learn-lib) | 提供网络学堂2018的接口。| JavaScript库。</br>使用 TypeScript 开发。| GitHub</br>MIT |
+| [thu-learn-lib](https://github.com/Harry-Chen/thu-learn-lib) | 提供网络学堂2018的接口。</br>[thu-learn-lib 开发小记](https://harrychen.xyz/2019/02/09/thu-learn-lib/)| JavaScript库。</br>使用 TypeScript 开发。| GitHub</br>MIT |
 | [thu-info-lib](https://github.com/thu-info-community/thu-info-lib) | 提供信息门户的接口。 | JavaScript库。</br>使用 TypeScript 开发。| GitHub</br>MIT |
 | [THUInfo](https://github.com/thu-info-community/thu-info-app) | 集成各种校园信息。如GPA、图书馆资源、教室资源、洗衣机、学生卡消费、新闻、课表…… | 支持 Android、iOS。</br>使用 Typescript、React Native 开发。| GitHub</br>MIT |
-| [Learn Helper](https://github.com/Harry-Chen/Learn-Helper) | 清华大学网络学堂浏览器扩展。便于管理相关信息；可在扩展的图标上看到待处理事项的数量。| 使用 Typescript、React 开发。| GitHub</br>MIT |
+| [Learn Helper](https://github.com/Harry-Chen/Learn-Helper) | 清华大学网络学堂浏览器扩展。便于管理相关信息；可在扩展的图标上看到待处理事项的数量。</br>[Learn Helper 4.0.0 开发感想](https://harrychen.xyz/2019/02/22/learn-helper-v4/)| 使用 Typescript、React 开发。| GitHub</br>MIT |
 | [learnX](https://github.com/robertying/learnX) | 清华大学网络学堂 App。| 支持 Android、iOS、macOS。</br>可联动 [课程信息共享计划](https://tsinghua.app/courses)。</br>使用 Typescript、React Native 开发。| GitHub</br>MIT |
 | [清华课程小助手](https://github.com/Starrah/THUCourseHelper)| 课程、日程管理 APP。对日程的支持较为完善，且有提醒功能。| 支持 Android。</br>使用 Kotlin 开发。| GitHub</br>MIT |
 | [T大树洞](https://github.com/treehollow/) | 旧洞。后由于某些原因主动关停。目前可使用 [新T树洞](https://thuhollow.github.io/)。| [后端](https://github.com/treehollow/treehollow-backend)使用 Go 开发。</br>[网页版前端](https://github.com/treehollow/webhole)使用 React, [iOS/macOS版](https://github.com/treehollow/treehollow-v3-ios)使用 SwiftUI，[Android版](https://github.com/treehollow/treehollow-v3-android)主要使用 Kotlin。 | GitHub</br>前端 GPL-3.0, 后端 AGPL-3.0|
