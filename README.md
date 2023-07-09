@@ -16,7 +16,7 @@
 | [learnX](https://github.com/robertying/learnX) | 清华大学网络学堂 App。| 支持 Android、iOS、macOS。</br>可联动 [课程信息共享计划](https://tsinghua.app/courses)（共享课程的上课时间地点）。</br>使用 Typescript、React Native 开发。| GitHub</br>MIT |
 | [T大树洞](https://github.com/treehollow/) | 旧洞。后由于某些原因主动关停。目前可使用 [新T树洞](https://new-t.github.io/)。| [后端](https://github.com/treehollow/treehollow-backend)使用 Go 开发。</br>[网页版前端](https://github.com/treehollow/webhole)使用 React, [iOS/macOS版](https://github.com/treehollow/treehollow-v3-ios)使用 SwiftUI，[Android版](https://github.com/treehollow/treehollow-v3-android)主要使用 Kotlin。 | GitHub</br>前端 GPL-3.0, 后端 AGPL-3.0|
 | [新T树洞](https://git.thu.monster/newthuhole/) | [树洞网址](https://new-t.github.io/) | [后端](https://git.thu.monster/newthuhole/hole-backend-rust)使用 Rust 开发。</br>[网页版前端](https://git.thu.monster/newthuhole/hole_thu_frontend)使用 React 开发。| T大怪兽（基于Gitea搭建的</br>轻量级代码托管网站）</br>前端 AGPL-3.0，后端 WTFPL-2.0 |
-| [清华云盘仓库下载](https://github.com/Xiang-cd/icloud_downloader) | 支持UI界面, 一键安装, 没有环境困扰, 选择一键下载自己所有的仓库, 无需手动选择下载。 | Python gradio 开发。 | GitHub</br>MIT |
+
 
 ## 小工具、小脚本
 
@@ -27,6 +27,7 @@
 | [清华教参服务平台下载器](https://github.com/libthu/reserves-lib-tsinghua-downloader) | 从[清华教参服务平台](http://reserves.lib.tsinghua.edu.cn/)下载书籍。自动下载书籍每一页的原图，生成 PDF。免登录。| 使用Python开发。| GitHub</br>GPL-3.0 |
 | [清华云盘批量下载器](https://github.com/HuXiao-THU/Tsinghua-Tools) | 批量下载给定分享链接下的所有内容，无需逐一点击，避免`size too large`。| 使用 Python 开发。| GitHub</br>MIT |
 | [Tsinghua Yukuotang Autoplay](https://greasyfork.org/zh-CN/scripts/422349-tsinghua-yukuotang-autoplay) | 一个 JS 脚本实操练习项目，功能为自动播放雨阔糖的视频。| | GitHub</br>MIT |
+| [清华云盘仓库下载](https://github.com/Xiang-cd/icloud_downloader) | 一个支持UI界面的清华云盘个人仓库批量下载工具，为毕业生批量迁移清华云盘内容提供便利, 一键安装, 没有环境困扰。 | Python gradio 开发。 | GitHub</br>MIT |
 
 ## Contributing
 
