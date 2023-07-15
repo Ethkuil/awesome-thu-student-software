@@ -27,7 +27,7 @@
 | [清华教参服务平台下载器](https://github.com/libthu/reserves-lib-tsinghua-downloader) | 从[清华教参服务平台](http://reserves.lib.tsinghua.edu.cn/)下载书籍。自动下载书籍每一页的原图，生成 PDF。免登录。| 使用Python开发。| GitHub</br>GPL-3.0 |
 | [清华云盘批量下载器](https://github.com/HuXiao-THU/Tsinghua-Tools) | 批量下载给定分享链接下的所有内容，无需逐一点击，避免`size too large`。| 使用 Python 开发。| GitHub</br>MIT |
 | [Tsinghua Yukuotang Autoplay](https://greasyfork.org/zh-CN/scripts/422349-tsinghua-yukuotang-autoplay) | 一个 JS 脚本实操练习项目，功能为自动播放雨阔糖的视频。| | GitHub</br>MIT |
-| [清华云盘仓库下载](https://github.com/Xiang-cd/icloud_downloader) | 一个支持UI界面的清华云盘个人仓库批量下载工具，为毕业生批量迁移清华云盘内容提供便利, 一键安装, 没有环境困扰。 | Python gradio 开发。 | GitHub</br>MIT |
+| [清华云盘仓库和清华邮箱下载](https://github.com/Xiang-cd/THU-downloader) | 一个支持UI界面的**清华云盘**个人仓库批量下载, 链接批量下载，**清华邮箱**邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。 | Python gradio 开发。 | GitHub</br>MIT |
 
 ## Contributing
 
