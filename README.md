@@ -5,6 +5,8 @@
 * 实用、可用。具有重要纪念/参考意义的可破例，如T大树洞。
 * 「仅供学习参考、不应传播」的软件一般不收录，如文泉学堂PDF下载。
 
+若有软件已失效，如果您愿意在 Issue / PR 中提醒的话，不胜感激！
+
 ## 项目
 
 | 项目名 | 简介 | 适用平台 & 开发语言 | 开源托管网站与许可证 |
@@ -17,17 +19,25 @@
 | [T大树洞](https://github.com/treehollow/) | 旧洞。后由于某些原因主动关停。目前可使用 [新T树洞](https://new-t.github.io/)。| [后端](https://github.com/treehollow/treehollow-backend)使用 Go 开发。</br>[网页版前端](https://github.com/treehollow/webhole)使用 React, [iOS/macOS版](https://github.com/treehollow/treehollow-v3-ios)使用 SwiftUI，[Android版](https://github.com/treehollow/treehollow-v3-android)主要使用 Kotlin。 | GitHub</br>前端 GPL-3.0, 后端 AGPL-3.0|
 | [新T树洞](https://git.thu.monster/newthuhole/) | [树洞网址](https://new-t.github.io/) | [后端](https://git.thu.monster/newthuhole/hole-backend-rust)使用 Rust 开发。</br>[网页版前端](https://git.thu.monster/newthuhole/hole_thu_frontend)使用 React 开发。| T大怪兽（基于Gitea搭建的</br>轻量级代码托管网站）</br>前端 AGPL-3.0，后端 WTFPL-2.0 |
 
-
 ## 小工具、小脚本
 
-| 小工具、小脚本名 | 简介 | 适用平台 & 开发语言 | 开源托管网站与许可证 |
-|-|-|-|-|
-| [清华选课时间冲突标记器](https://greasyfork.org/zh-CN/scripts/408340-tsinghuacourseconflictmarker) | 在选课系统中，检测已选课程，自动将候选课中有冲突时间的课标红。| | Greasy Fork</br>MIT |
-| [清华大学GPA查询](https://greasyfork.org/zh-CN/scripts/420540-%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6gpa%E6%9F%A5%E8%AF%A2) | 在信息门户的「全部成绩」页面，计算出每个学期和总的必限、必限任GPA。支持 WebVPN。| | Greasy Fork</br>暂无许可证 |
-| [清华教参服务平台下载器](https://github.com/libthu/reserves-lib-tsinghua-downloader) | 从[清华教参服务平台](http://reserves.lib.tsinghua.edu.cn/)下载书籍。自动下载书籍每一页的原图，生成 PDF。免登录。| 使用Python开发。| GitHub</br>GPL-3.0 |
-| [清华云盘批量下载器](https://github.com/HuXiao-THU/Tsinghua-Tools) | 批量下载给定分享链接下的所有内容，无需逐一点击，避免`size too large`。| 使用 Python 开发。| GitHub</br>MIT |
-| [Tsinghua Yukuotang Autoplay](https://greasyfork.org/zh-CN/scripts/422349-tsinghua-yukuotang-autoplay) | 一个 JS 脚本实操练习项目，功能为自动播放雨阔糖的视频。| | GitHub</br>MIT |
-| [清华云盘仓库和清华邮箱下载](https://github.com/Xiang-cd/THU-downloader) | 一个支持UI界面的**清华云盘**个人仓库批量下载, 链接批量下载，**清华邮箱**邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。 | Python gradio 开发。 | GitHub</br>MIT |
+[清华选课时间冲突标记器](https://greasyfork.org/zh-CN/scripts/408340-tsinghuacourseconflictmarker)：浏览器脚本。在选课系统中，检测已选课程，自动将候选课中有冲突时间的课标红。
+
+[网络学堂挂机免重登](https://greasyfork.org/zh-CN/scripts/444728-清华大学网络学堂挂机免重登)：浏览器脚本。网络学堂后台挂着也不会被让重登了。
+
+[网络学堂3202助手](https://greasyfork.org/zh-CN/scripts/422447-网络学堂3202助手)：浏览器脚本。直观展现死线情况，点击即可跳转；导出所有课程至日历；一键标记公告已读；批量保存新课件。
+
+[Tsinghua Yukuotang Autoplay](https://greasyfork.org/zh-CN/scripts/422349-tsinghua-yukuotang-autoplay)：浏览器脚本。一个 JS 脚本实操练习项目，功能为自动播放雨阔糖的视频。
+
+[清华大学GPA查询](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)：浏览器脚本。在信息门户的「全部成绩」页面，计算出每个学期和总的必限、必限任GPA。支持 WebVPN。
+
+### 下载器
+
+[清华教参服务平台下载器](https://github.com/libthu/reserves-lib-tsinghua-downloader)：从[清华教参服务平台](http://reserves.lib.tsinghua.edu.cn/)下载书籍。自动下载书籍每一页的原图，生成 PDF。免登录。
+
+[清华云盘批量下载器](https://github.com/HuXiao-THU/Tsinghua-Tools)：批量下载给定分享链接下的所有内容，无需逐一点击，避免`size too large`。
+
+[清华云盘仓库和清华邮箱下载](https://github.com/Xiang-cd/THU-downloader)：一个支持UI界面的**清华云盘**个人仓库批量下载, 链接批量下载，**清华邮箱**邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 
 ## Contributing
 
