@@ -1,5 +1,5 @@
 # awesome-thu-student-software
-本项目收录主要由清华大学在校学生开发/维护的实用开源软件。目前收录的软件都聚焦于校园生活。
+本项目收录主要由清华大学在校学生开发/维护的实用 **开源** 软件。目前收录的软件都聚焦于校园生活。
 
 要求：
 * 实用、可用。具有重要纪念/参考意义的可破例，如T大树洞。
@@ -25,15 +25,20 @@
 
 ### 优化网站体验的浏览器脚本
 
-[清华选课时间冲突标记器](https://greasyfork.org/zh-CN/scripts/408340-tsinghuacourseconflictmarker)：在选课系统中，检测已选课程，自动将候选课中有冲突时间的课标红。
+选课：
+- [清华选课时间冲突标记器](https://greasyfork.org/zh-CN/scripts/408340-tsinghuacourseconflictmarker)：在选课系统中，检测已选课程，自动将候选课中有冲突时间的课标红。
 
-[网络学堂挂机免重登](https://greasyfork.org/zh-CN/scripts/444728-清华大学网络学堂挂机免重登)：网络学堂后台挂着也不会被让重登了。
+网络学堂：
+- [网络学堂挂机免重登](https://greasyfork.org/zh-CN/scripts/444728-清华大学网络学堂挂机免重登)：网络学堂后台挂着也不会被让重登了。
+- [网络学堂3202助手](https://greasyfork.org/zh-CN/scripts/422447-网络学堂3202助手)：直观展现死线情况，点击即可跳转；导出所有课程至日历；一键标记公告已读；批量保存新课件。
 
-[网络学堂3202助手](https://greasyfork.org/zh-CN/scripts/422447-网络学堂3202助手)：直观展现死线情况，点击即可跳转；导出所有课程至日历；一键标记公告已读；批量保存新课件。
+雨课堂：
+- [Tsinghua Yukuotang Autoplay](https://greasyfork.org/zh-CN/scripts/422349-tsinghua-yukuotang-autoplay)：一个 JS 脚本实操练习项目，功能为自动播放雨阔糖的视频。
 
-[Tsinghua Yukuotang Autoplay](https://greasyfork.org/zh-CN/scripts/422349-tsinghua-yukuotang-autoplay)：一个 JS 脚本实操练习项目，功能为自动播放雨阔糖的视频。
+信息门户：
+- [清华大学GPA查询](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)：在信息门户的「全部成绩」页面，计算出每个学期和总的必限、必限任GPA。支持 WebVPN。
 
-[清华大学GPA查询](https://greasyfork.org/zh-CN/scripts/420540-清华大学gpa查询)：在信息门户的「全部成绩」页面，计算出每个学期和总的必限、必限任GPA。支持 WebVPN。
+  > 若使用手机，则更推荐通过 THUInfo 查询成绩。
 
 ### 下载器
 
