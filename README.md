@@ -39,6 +39,8 @@
 
 [清华云盘仓库和清华邮箱下载](https://github.com/Xiang-cd/THU-downloader)：一个支持UI界面的**清华云盘**个人仓库批量下载, 链接批量下载，**清华邮箱**邮件批量下载工具，为毕业生批量迁移清华云盘内容和备份邮箱提供便利。
 
+[网络学堂2018下载](https://github.com/euxcet/thulearn2018.git)：# 网络学堂命令行下载器/管理工具，支持课件及作业的增量下载，ddl查看，作业提交，建议配合VS Code一站式管理课程作业。
+
 ## Contributing
 
 欢迎发 [Issue](https://github.com/Ethkuil/awesome-thu-student-software/issues/new) 与 PR。
