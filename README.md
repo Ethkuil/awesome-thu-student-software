@@ -23,6 +23,14 @@
 
 ## 小工具、小脚本
 
+[thulearn2018](https://github.com/euxcet/thulearn2018)：网络学堂 CLI，支持在终端中下载课件/作业、查看ddl、提交作业！可以不开浏览器而用 VS Code 甚至 Vim/Emacs 写一切。
+
+  > Windows 下通过终端打开 pdf/word 文件：
+  > ```
+  > start hw1.pdf
+  > start hw1.docx
+  > ```
+
 ### 优化网站体验的浏览器脚本
 
 选课：
