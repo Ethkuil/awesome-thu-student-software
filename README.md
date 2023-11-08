@@ -23,15 +23,17 @@
 
 ## 小工具、小脚本
 
-[thulearn2018](https://github.com/euxcet/thulearn2018)：网络学堂 CLI，支持在终端中下载课件/作业、查看ddl、提交作业！可以不开浏览器而用 VS Code 甚至 Vim/Emacs 写一切。
+[thulearn2018](https://github.com/euxcet/thulearn2018)：网络学堂 CLI，支持在终端中下载课件&作业、查看ddl、提交作业！课件&作业支持自动下载。
 
-  > Windows 下通过终端使用默认应用打开文件，如以下的 pdf/word 文件：
+例：提交作业从「打开浏览器操作半分钟再在对话框里找文件」->「在当前目录启动终端 `learn submit <file>` 不到10秒」。
+
+  > Windows 下可使用 start 命令以默认应用打开文件：
   > ```powershell
   > start hw1.pdf
   > start hw1.docx
   > ```
-  > OS X 和 Linux 中亦有相应的`open`和`xdg-open`命令。
-  > 另外，VS Code是一个跨平台、推荐与该工具结合使用的编辑器，默认支持所有的纯文本文件（`*.tex, *.md, *.txt`等及各种代码） 和 pdf 文件，亦可通过安装 [Office Viewer](https://github.com/cweijan/vscode-office) 插件预览 word, excel 等富文本，可通过`code`命令快速从终端打开文件/目录。[配置文档](https://code.visualstudio.com/docs/editor/command-line#_launching-from-command-line)
+  > OS X 和 Linux 中亦有相应的 `open` 和 `xdg-open` 命令。
+  > 另外，结合 VS Code/Vim/Emacs 使用本工具也是很好的选择，写作业、交作业一站式完成。VS Code 可安装 [Office Viewer](https://github.com/cweijan/vscode-office) 扩展来预览 word, excel 等文件，可通过 `code` 命令从终端打开文件/目录。
   > ```bash 
   > code <file/directory> # 在当前工作区中打开文件，或将目录打开为新的文件夹
   > code -r <directory>   # 使用新的文件夹替换当前工作区
