@@ -44,6 +44,8 @@
 - [清华选课时间冲突标记器](https://greasyfork.org/zh-CN/scripts/408340-tsinghuacourseconflictmarker)：在选课系统中，检测已选课程，自动将候选课中有冲突时间的课标红。
 - [Colorful Course](https://greasyfork.org/en/scripts/456440-colorful-course)：为课程的各志愿报名人数上色，方便确定选课志愿。「必能选上」为绿色，「需抽签」为黄色，「不可能选上」为红色。
 
+> 注：以上两个脚本的 `@match` 写得不太完善，现在会匹配不上选课系统的 URL，需自行修改。已给 `清华选课时间冲突标记器` 提交了修复的 [PR](https://github.com/thuservices/thuservices/pull/54)
+
 网络学堂：
 - [网络学堂挂机免重登](https://greasyfork.org/zh-CN/scripts/444728-清华大学网络学堂挂机免重登)：网络学堂后台挂着也不会被让重登了。
 - [网络学堂3202助手](https://greasyfork.org/zh-CN/scripts/422447-网络学堂3202助手)：直观展现死线情况，点击即可跳转；导出所有课程至日历；一键标记公告已读；批量保存新课件。
